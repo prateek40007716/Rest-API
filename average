@@ -1,0 +1,6 @@
+def average(*args):
+    avg_result=0
+    for n in args:
+        add = add + n
+    average = average / len(args)
+    return average
